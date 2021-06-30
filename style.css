@@ -1,0 +1,48 @@
+#home{
+    background-color:azure;
+}
+
+table{
+    font-family: italic;
+    border-collapse: collapse;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: black;
+}
+
+th{
+    font-weight:800;
+}
+
+h2{
+    color: rebeccapurple;
+    font-family: inherit;
+}
+
+form{
+    font-family: inherit;
+    color: rebeccapurple;
+}
+
+h1{
+    padding-left: 200px;
+    color: black;
+}
+
+p{
+    color: #000000;
+    padding-left: 10px;
+}
+
+td{
+    background-color: beige;
+}
+
+img{
+    background-color: beige;
+    padding-left: 40%;
+}
+
+h4{
+    color:crimson;
+}
